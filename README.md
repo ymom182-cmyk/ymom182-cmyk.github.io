@@ -8,7 +8,8 @@ indieauth :)
     <title>Auth | el3v8or</title>
 
     <!-- 1. INDIEAUTH ENDPOINTS: Tells apps where to send you to log in -->
-    <link rel="authorization_endpoint" href="https://indieauth.com">
+   <link rel="authorization_endpoint" href="https://indielogin.com">
+
     <link rel="token_endpoint" href="https://tokens.indieauth.com">
 
     <!-- 2. IDENTITY LINK: Proves you are the owner of this domain via GitHub -->
