@@ -26,7 +26,7 @@ indieauth :)
         <!-- Optional: Replace with a link to your actual photo/avatar -->
         <img class="u-photo" src="https://el3v8or.com/logo" alt="Profile Picture" style="width:100px; border-radius:50%;">
 
-        <p>Verifying via <a href="https://github.com" rel="me">GitHub</a></p>
+  
     </main>
 
 </body>
