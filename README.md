@@ -12,7 +12,8 @@ indieauth :)
     <link rel="token_endpoint" href="https://tokens.indieauth.com">
 
     <!-- 2. IDENTITY LINK: Proves you are the owner of this domain via GitHub -->
-    <link href="https://github.com" rel="me">
+   <link href="https://github.com/ymom182-cmyk" rel="me">
+
 
 </head>
 <body>
