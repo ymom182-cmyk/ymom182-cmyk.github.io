@@ -23,7 +23,7 @@ indieauth :)
         <p>This is my <a class="u-url" href="https://auth.el3v8or.com">IndieAuth Identity</a>.</p>
         
         <!-- Optional: Replace with a link to your actual photo/avatar -->
-        <img class="u-photo" src="https://github.com.png" alt="Profile Picture" style="width:100px; border-radius:50%;">
+        <img class="u-photo" src="https://el3v8or.com/logo" alt="Profile Picture" style="width:100px; border-radius:50%;">
 
         <p>Verifying via <a href="https://github.com" rel="me">GitHub</a></p>
     </main>
