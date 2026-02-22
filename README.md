@@ -1,5 +1,5 @@
 # ymom182-cmyk.github.io
-indieauth
+indieauth :)
 <!DOCTYPE html>
 <html lang="en">
 <head>
