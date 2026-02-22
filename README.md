@@ -10,7 +10,7 @@
     <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
 
     <!-- 2. IDENTITY LINK: Linking to your GitHub profile -->
-    <link href="https://github.com/ymom182-cmyk" rel="me">
+    <a href="https://github.com/ymom182-cmyk" rel="me">github.com/ymom182-cmyk</a>
 
 </head>
 <body>
